@@ -1,0 +1,28 @@
+{
+	"Thaats":[
+	  {
+		"Kalyan":[
+		  {"raag":"Yaman"},
+		  {"raag":"Bhoopali"}		  
+		]
+	  },
+	  {
+		"Kafi":[
+		  {"raag":"Pilu"},
+		  {"raag":"Patdeep"}		  
+		]
+	  },
+	  {
+		"Khamaj":[
+		  {"raag":"Saraswati"},
+		  {"raag":"Ragashree"}		  
+		]
+	  },
+	  {
+		"Bilawal":[
+		  {"raag":"Bihag"},
+		  {"raag":"Hamsdhwani"}		  
+		]
+	  }
+	]
+}
